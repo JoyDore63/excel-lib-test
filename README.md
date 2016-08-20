@@ -24,7 +24,7 @@ Answer: This might be a good idea, depending on how the user will work. It would
 
 Improvements could be made based on user feedback and obviously on peer review.
 
-#Further work:
+##Further work:
 
 I've created a CategorisedCard class by extending the Card class. This shows simple use of OO design which wasn't in the original exercise. I haven't included extensive tests as good testing is demonstrated for the Card class.
 I've created a CategorisedCardReader class by extending the CardReader class. This shows more OO design and code reuse.
