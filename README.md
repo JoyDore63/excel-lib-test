@@ -27,5 +27,7 @@ Improvements could be made based on user feedback and obviously on peer review.
 ##Further work:
 
 I've created a CategorisedCard class by extending the Card class. This shows simple use of OO design which wasn't in the original exercise. I haven't included extensive tests as good testing is demonstrated for the Card class.
+
 I've created a CategorisedCardReader class by extending the CardReader class. This shows more OO design and code reuse.
-I've also created a new Interface allowing both card reader classes to be called from the same main method, currently in CategorisedCardReader. (The main in CardReader remains but could most likely be removed in a live system.)
+
+I've also created a new Interface allowing both card reader classes to be called from the same main method, currently in CategorisedCardReader. (The main in CardReader remains but would most likely be removed in a live system.)
